@@ -36,7 +36,7 @@ npm start
 
  change db path on app.js line number 23 <br />
 
-  root/src/routes\api.js
+  root/src/routes/api.js
 
 
 
